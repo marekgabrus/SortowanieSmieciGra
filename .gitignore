@@ -1,0 +1,7 @@
+# build artefacts
+*.exe
+*.obj
+build/
+# VS user files
+*.suo
+*.vcxproj.user
